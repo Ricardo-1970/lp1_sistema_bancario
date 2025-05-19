@@ -1,0 +1,115 @@
+{
+    "saldo": 2442.0,
+    "extrato": [
+        {
+            "data_hora": "19/05/2025 - 18:09:35",
+            "tipo": "Consulta Saldo",
+            "valor": 1000.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:09:47",
+            "tipo": "Dep\u00f3sito",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:09:53",
+            "tipo": "Saque",
+            "valor": 23.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:09:58",
+            "tipo": "Dep\u00f3sito",
+            "valor": 134.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:03",
+            "tipo": "Saque",
+            "valor": 45.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:10",
+            "tipo": "Dep\u00f3sito",
+            "valor": 568.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:14",
+            "tipo": "Saque",
+            "valor": 345.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:18",
+            "tipo": "Dep\u00f3sito",
+            "valor": 678.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:29",
+            "tipo": "Saque",
+            "valor": 987.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:35",
+            "tipo": "Dep\u00f3sito",
+            "valor": 32.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:40",
+            "tipo": "Dep\u00f3sito",
+            "valor": 50.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:46",
+            "tipo": "Dep\u00f3sito",
+            "valor": 678.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:51",
+            "tipo": "Dep\u00f3sito",
+            "valor": 235.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:10:58",
+            "tipo": "Saque",
+            "valor": 98.0
+        },
+        {
+            "data_hora": "19/05/2025 - 18:11:09",
+            "tipo": "Saque",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:55:16",
+            "tipo": "Consulta Saldo",
+            "valor": 1877.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:55:36",
+            "tipo": "Dep\u00f3sito",
+            "valor": 345.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:55:40",
+            "tipo": "Saque",
+            "valor": 34.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:55:44",
+            "tipo": "Dep\u00f3sito",
+            "valor": 465.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:55:49",
+            "tipo": "Saque",
+            "valor": 234.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:55:55",
+            "tipo": "Dep\u00f3sito",
+            "valor": 123.0
+        },
+        {
+            "data_hora": "19/05/2025 - 19:56:39",
+            "tipo": "Transfer\u00eancia",
+            "valor": 100.0
+        }
+    ]
+}
